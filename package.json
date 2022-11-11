@@ -1,23 +1,23 @@
 {
-  "name": "nedb",
-  "version": "1.8.0",
+  "name": "fastx-nedb",
+  "version": "1.8.1",
   "author": {
-    "name": "Louis Chatriot",
-    "email": "louis.chatriot@gmail.com"
+    "name": "Peter Panayotopoulos",
+    "email": "peter@starnet.com"
   },
   "contributors": [
     "Louis Chatriot"
   ],
-  "description": "File-based embedded data store for node.js",
+  "description": "File-based embedded data store for node.js. Fork of original nedb with FastX fixes",
   "keywords": [
     "database",
     "datastore",
     "embedded"
   ],
-  "homepage": "https://github.com/louischatriot/nedb",
+  "homepage": "https://github.com/cintolas/fastx-nedb",
   "repository": {
     "type": "git",
-    "url": "git@github.com:louischatriot/nedb.git"
+    "url": "git@github.com:cintolas/fastx-nedb.git"
   },
   "dependencies": {
     "async": "0.2.10",
